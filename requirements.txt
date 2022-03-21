@@ -1,0 +1,7 @@
+# List required packages in this file, one per line.
+numpy
+glob2
+torch>=1.6.0
+scipy
+matplotlib
+scikit-learn

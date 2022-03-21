@@ -1,0 +1,1 @@
+[{"beta_limits": [0, 1], "gamma_limits": [0, 2], "ginf_limits": [0.99, 5.0], "alpha_limits": [0.2, 3], "beta_start": 0.5, "gamma_start": 0.0037174721189591076, "ginf_start": 0.990000001, "alpha_start": 1.6, "lower_bound_frames": 5, "upper_bound_half_decays": 2}]
