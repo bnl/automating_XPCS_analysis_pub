@@ -1,4 +1,4 @@
-This repository contains the code to perform the analysis of two-time correlation functions (X-ray Photon Correlation Spectroscopy), presented in the article "Machine Learning for Analysis of Speckle Dynamics: Quantification and Outlier Detection"(Fig. 2, Fig. 4). The code contains the functions for noise removal from a two-time correlation function, uncertainty quantification, taking one-time correlation cuts and fitting them to a stretched exponent functional form. The repository contains a pre-trained model and corresponding uncertainty quantification data.  
+This repository contains the code to perform the analysis of two-time photon correlation functions (X-ray Photon Correlation Spectroscopy), presented in the article "Machine Learning for Analysis of Speckle Dynamics: Quantification and Outlier Detection"(Fig. 2, Fig. 4). The code contains the functions for noise removal from a two-time correlation function, uncertainty quantification, taking one-time correlation cuts and fitting them to a stretched exponent functional form. The repository contains a pre-trained model (kernel size 1) and corresponding uncertainty quantification data.  
 
   
 
