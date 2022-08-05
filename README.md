@@ -30,9 +30,11 @@ At the beginning of each session, go to `File > New > Terminal` and type `pip in
 
   
 
-To copy the files from this repository, at your terminal, type : `git clone pip install git+https://github.com/bnl/automating_XPCS_analysis_pub` 
+To copy the files from this repository, at your terminal, type : `git clone git+https://github.com/bnl/automating_XPCS_analysis_pub` 
 
-  
 
-The notebook, that contains examples of useful functions is `example_notebook/demonstrate_denoising_pub.ipynb` 
+The notebook, that contains examples of useful functions is `example_notebook/demonstrate_denoising_pub.ipynb`
+
+DISCLAIMER: 
+This effort is an ongoing research project that includes evaluation of the models for wide range applicability.  Upon validation of the analytical methods, a future repository will become available. We welcome any reports of issues based on the code presented here, though we may not be able to address all issues since the repositiory is designed to support the paper and not be a formal python library. 
 
