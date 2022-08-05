@@ -30,7 +30,7 @@ At the beginning of each session, go to `File > New > Terminal` and type `pip in
 
   
 
-To copy the files from this repository, at your terminal, type : `git clone git+https://github.com/bnl/automating_XPCS_analysis_pub` 
+To copy the files from this repository, at your terminal, type : `git clone https://github.com/bnl/automating_XPCS_analysis_pub` 
 
 
 The notebook, that contains examples of useful functions is `example_notebook/demonstrate_denoising_pub.ipynb`
